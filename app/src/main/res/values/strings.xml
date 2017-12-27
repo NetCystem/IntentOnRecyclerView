@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentOnRecyclerView</string>
+    <string name="heading">Heading</string>
+    <string name="description">Description</string>
+</resources>
